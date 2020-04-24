@@ -80,7 +80,7 @@ body{
 .card-right{
     width: 50%;
     height: auto;
-    background-image: url(../img/watches.jpg);
+    background-image: url(img/watches.jpg);
     background-repeat: no-repeat;
     background-position-x: 250px;
 }
@@ -146,7 +146,7 @@ body{
 .buy-now-right{
     width: 40%;
     height: auto;
-    background-image: url(../img/preview.jpg);
+    background-image: url(img/preview.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -159,7 +159,7 @@ body{
 .take{
     width: 100%;
     height: 700px;
-    background-image: url(../img/runners.jpg);
+    background-image: url(img/runners.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
