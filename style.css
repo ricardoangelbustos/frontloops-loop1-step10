@@ -65,6 +65,9 @@ body{
     font-weight: bold;
     margin-top: 30px;
 }
+.card-left:hover{
+    cursor: pointer;
+}
 .text{
     display: flex;
     margin-top: 30px;
@@ -143,6 +146,9 @@ body{
     margin-top: 30px;
     margin-left: 3%;
 }
+.buy-now-left button:hover{
+    cursor: pointer;
+}
 .buy-now-right{
     width: 40%;
     height: auto;
@@ -184,6 +190,9 @@ body{
 .take-text{
     margin-left: 55%;
     padding-top: 200px;
+}
+.take-text button:hover{
+    cursor: pointer;
 }
 .white-line{
     width: 1%;
